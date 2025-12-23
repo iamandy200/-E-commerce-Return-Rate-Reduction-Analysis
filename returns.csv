@@ -1,0 +1,6 @@
+return_id,order_id,product_id,return_date,return_reason,return_status,refund_amount,return_channel
+R001,1002,P202,2024-01-12,Size Issue,Completed,2499,Pickup
+R002,1004,P204,2024-01-15,Defective Item,Completed,28999,Pickup
+R003,1005,P205,2024-01-17,Color Mismatch,Completed,1799,Pickup
+R004,1007,P207,2024-01-20,Late Delivery,Completed,45999,Pickup
+R005,1009,P209,2024-01-18,Size Issue,Completed,3499,Drop-off

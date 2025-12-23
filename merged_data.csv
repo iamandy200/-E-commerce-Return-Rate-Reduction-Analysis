@@ -1,0 +1,6 @@
+order_id,category,price,geography,marketing_channel,delivery_days,is_returned
+1001,Electronics,15999,Maharashtra,Google Ads,3,0
+1002,Fashion,2499,Karnataka,Instagram Ads,5,1
+1003,Home & Kitchen,3999,Delhi,Organic Search,4,0
+1004,Electronics,28999,Tamil Nadu,Google Ads,6,1
+1005,Fashion,1799,Maharashtra,Facebook Ads,7,1

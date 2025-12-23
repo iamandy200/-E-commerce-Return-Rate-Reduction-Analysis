@@ -1,0 +1,11 @@
+order_id,customer_id,product_id,category,supplier,price,quantity,order_date,geography,marketing_channel,payment_method,delivery_days
+1001,C101,P201,Electronics,Supplier_A,15999,1,2024-01-05,Maharashtra,Google Ads,Credit Card,3
+1002,C102,P202,Fashion,Supplier_B,2499,2,2024-01-06,Karnataka,Instagram Ads,UPI,5
+1003,C103,P203,Home & Kitchen,Supplier_C,3999,1,2024-01-07,Delhi,Organic Search,Debit Card,4
+1004,C104,P204,Electronics,Supplier_A,28999,1,2024-01-08,Tamil Nadu,Google Ads,Credit Card,6
+1005,C105,P205,Fashion,Supplier_D,1799,3,2024-01-09,Maharashtra,Facebook Ads,COD,7
+1006,C106,P206,Beauty,Supplier_E,999,1,2024-01-10,Telangana,Organic Search,UPI,3
+1007,C107,P207,Electronics,Supplier_F,45999,1,2024-01-10,Kerala,Affiliate,Credit Card,8
+1008,C108,P208,Home & Kitchen,Supplier_C,2999,2,2024-01-11,Delhi,Google Ads,Debit Card,4
+1009,C109,P209,Fashion,Supplier_B,3499,1,2024-01-12,Gujarat,Instagram Ads,UPI,5
+1010,C110,P210,Beauty,Supplier_E,1299,2,2024-01-13,Maharashtra,Facebook Ads,COD,6
